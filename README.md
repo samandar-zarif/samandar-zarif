@@ -29,6 +29,7 @@ A JavaScript developer with 3 years of experience, specializing in modern web te
 ![Windsurf](https://img.shields.io/badge/Windsurf-0078D7?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude-FFA500?style=for-the-badge&logo=claudecode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 🌐 Connect With Me
